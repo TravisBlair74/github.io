@@ -1,6 +1,6 @@
 body {
   padding-bottom: 5rem;
-  background-color: #ccccff;
+  background-color: #ddc6ef;
 }
 
 header {
@@ -25,6 +25,10 @@ main {
 
 .project-description {
   padding-left: 0;
+}
+
+.project {
+  background-color: #ccccff;
 }
 
 .project img {
